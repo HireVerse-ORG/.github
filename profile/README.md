@@ -1,6 +1,6 @@
 # Hireverse
 
-![Hireverse Architecture](https://github.com/HireVerse-ORG/.github/assets/hireverse-arch.png)
+![Hireverse Architecture](https://github.com/HireVerse-ORG/.github/blob/main/assets/hireverse-arch.png)
 
 ## Overview
 Hireverse is a comprehensive job platform designed for both **job seekers** and **companies**. It offers a seamless experience for job applications, hiring processes, and professional networking. 
